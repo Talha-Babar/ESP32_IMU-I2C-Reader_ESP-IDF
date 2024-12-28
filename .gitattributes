@@ -1,2 +1,6 @@
+# Categorize C files
+*.c linguist-language=C
+*.h linguist-language=C
+
 sdkconfig linguist-vendored
 sdkconfig.old linguist-vendored
